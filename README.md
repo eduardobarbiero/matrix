@@ -29,7 +29,7 @@ If you want run the Matrix, you need follow steps:
 ## On Heroku
 If you prefer, you can run Matrix in Heroku: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ResultadosDigitais/matrix)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eduardobarbiero/matrix)
 
 
 ## Environments
